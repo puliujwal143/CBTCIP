@@ -1,0 +1,11 @@
+Objective:
+
+The primary objective of this task is to familiarize with python basics and to gauge creativity and understanding of creating games using python.
+
+Task Description:
+
+Each intern is required to create a rock paper scissors. The game should be focusing on the following rules:
+
+ROCK VS PAPER -> PAPER WINS
+PAPER VS SCISSORS -> SCISSORS WINS
+SCISSORS VS ROCK -> ROCK WINS
